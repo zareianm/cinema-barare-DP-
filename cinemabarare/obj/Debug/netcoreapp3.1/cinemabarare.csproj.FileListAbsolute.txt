@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.exe
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.deps.json
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.runtimeconfig.json
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.dll
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\bin\Debug\netcoreapp3.1\cinemabarare.pdb
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.dll
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.pdb
+C:\Users\ADMIN\Desktop\cinemabarare\cinemabarare\obj\Debug\netcoreapp3.1\cinemabarare.genruntimeconfig.cache
